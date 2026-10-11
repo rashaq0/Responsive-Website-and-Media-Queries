@@ -81,7 +81,7 @@ footer{
 }
 
 @media
-{footer{
+    footer{
         padding:15px;
         background-color: rgb(0, 0, 0);
         flex-direction: column;
